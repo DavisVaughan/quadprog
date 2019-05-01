@@ -1,0 +1,4 @@
+^revdep$
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
